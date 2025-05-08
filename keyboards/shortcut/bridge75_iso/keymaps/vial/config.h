@@ -1,5 +1,3 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 #pragma once
 #define VIAL_KEYBOARD_UID {0x9F, 0x75, 0xCE, 0xF5, 0x11, 0xBB, 0x34, 0x9B}
-
-#define RGB_MATRIX_ENABLE
